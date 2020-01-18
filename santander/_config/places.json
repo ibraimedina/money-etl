@@ -1,0 +1,108 @@
+{
+    "BOM GOURMET": {
+        "label": "Dubom",
+        "category": "Hobby",
+        "parentCategories": "Expenses"
+    },
+    "BURGER KING MAR": {
+        "label": "BurguerKing Mariz e Barros",
+        "category": "Food",
+        "parentCategories": "Expenses"
+    },
+    "CAFE E BAR MACA": {
+        "label": "Bode cheiroso",
+        "category": "Lunch",
+        "parentCategories": "Expenses:Food"
+    },
+    "EXPRESSO UNIR L": {
+        "label": "Conexão aeroporto",
+        "category": "Conexão aeroporto",
+        "parentCategories": "Expenses:Monthly:Transport"
+    },
+    "MEGA MARACANA F": {
+        "label": "Pão de queijo recheado",
+        "category": "Food",
+        "parentCategories": "Expenses"
+    },
+    "MERCEARIA REI": {
+        "label": "Rede Economia",
+        "category": "Food",
+        "parentCategories": "Expenses"
+    },
+    "METRO RJ": {
+        "label": "Metrô Rio",
+        "category": "Transport",
+        "parentCategories": "Expenses:Monthly"
+    },
+    "PADARIA ALVORAD": {
+        "label": "Padaria Alvorada",
+        "category": "Lunch",
+        "parentCategories": "Expenses:Food"
+    },
+    "PAG.LucasEduard": {
+        "label": "Caçapas Buritis",
+        "category": "Hobby",
+        "parentCategories": "Expenses"
+    }, 
+    "PANIFICACAO ALV": {
+        "label": "Padaria Alvorada",
+        "category": "Lunch",
+        "parentCategories": "Expenses:Food"
+    },
+    "PASTELARIA DONG": {
+        "label": "Pastelaria 'Peixe sagrado'",
+        "category": "Lunch",
+        "parentCategories": "Expenses:Food"
+    },
+    "TANIA DOS SANTO": {
+        "label": "Espetinho Ivi",
+        "category": "Hobby",
+        "parentCategories": "Expenses"
+    },
+    "TIJUCA": {
+        "label": "Extra Tijuca",
+        "category": "Food",
+        "parentCategories": "Expenses"
+    },
+    "TREM BOM": {
+        "label": "Trem bom",
+        "category": "Lunch",
+        "parentCategories": "Expenses:Food"
+    },
+    "TRIGUS PAD CONF": {
+        "label": "Trigus Padaria",
+        "category": "Food",
+        "parentCategories": "Expenses"
+    },
+    "VIVEIROS RESTAU": {
+        "label": "Dois Árabes",
+        "category": "Lunch",
+        "parentCategories": "Expenses:Food"
+    },
+
+    "DOC E RECEBIDO-TIT DISTINTA": {
+        "label": "DOC",
+        "category": "Incomes",
+        "parentCategories": ""
+    },
+    "IOF ADICIONAL - AUTOMATICO": {
+        "label": "IOF adicional",
+        "category": "IOF",
+        "parentCategories": "Expenses:Interest"
+    },
+    "IOF IMPOSTO OPERACOES FINANCEIRAS": {
+        "label": "IOF",
+        "category": "IOF",
+        "parentCategories": "Expenses:Interest"
+    },
+    "REMUNERACAO CONTAMAX CDB": {
+        "label": "Juros CDB",
+        "category": "CDB",
+        "parentCategories": "Incomes:Interest"
+    },
+    "SAQUE BANCO 24HS": {
+        "label": "Saque Banco24hrs",
+        "category": "Expenses",
+        "parentCategories": ""
+    }   
+}

@@ -1,0 +1,21 @@
+{
+  "name": "money-etl",
+  "version": "0.0.1",
+  "description": "Extractor to bank accounts info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "extract",
+    "transform",
+    "load",
+    "etl"
+  ],
+  "author": "Ibraim Medina",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jsdom": "^16.0.0"
+  }
+}
