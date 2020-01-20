@@ -2,9 +2,10 @@
 
 1. Selecione o período desejado no site;
 2. Execute o jQuery na página:
+  - Itaú: `jQuery('#gridLancamentos-pessoa-fisica')`;
   - Nubank: `jQuery('.charges-list')`;
   - Santander: `jQuery('.extrato-table')`;
-3. Copie o HTML do elemento selecionado;
+3. Copie o HTML do elemento selecionado: `Copy > CopyOuterHTML`;
 4. Salve o conteúdo em um arquivo na pasta `<site>/_data`;
 
 # Transform

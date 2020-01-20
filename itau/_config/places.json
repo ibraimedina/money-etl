@@ -1,0 +1,60 @@
+{
+    "INT LIGHT": {
+        "label": "Light",
+        "category": "Energy",
+        "parentCategories": "Expenses:Monthly"
+    },
+    "INT VIVO-MG": {
+        "label": "Celular",
+        "category": "Smartphone",
+        "parentCategories": "Expenses:Monthly"
+    },
+
+    "TBI 3820.16170-5AP": {
+        "label": "Aluguel pro Danilo",
+        "category": "House",
+        "parentCategories": "Expenses:Monthly"
+    },
+    "TBI 3820.16170-5": {
+        "label": "Transferência (Danilin)",
+        "category": "Expenses",
+        "parentCategories": ""
+    },
+    "TBI 6014.27359-0": {
+        "label": "Transferência (Yuri)",
+        "category": "Expenses",
+        "parentCategories": ""
+    },
+
+
+
+    "REMUNERACAO/SALARIO": {
+        "label": "Salário",
+        "category": "Salary",
+        "parentCategories": "Incomes"
+    },
+    
+    "REND PAGO APLIC AUT MAIS": {
+        "label": "Juros c/c",
+        "category": "Interest",
+        "parentCategories": "Incomes"
+    },
+    "REND PAGO APLIC AUT APR": {
+        "label": "Juros c/c",
+        "category": "Interest",
+        "parentCategories": "Incomes"
+    },
+    
+
+    
+    "DOCD INT": {
+        "label": "Transferência (Eu mesmo)",
+        "category": "InputOutput",
+        "parentCategories": ""
+    },
+    "INTPAG TIT BANCO": {
+        "label": "Pagamento (Nubank)",
+        "category": "InputOutput",
+        "parentCategories": "" 
+    }
+}

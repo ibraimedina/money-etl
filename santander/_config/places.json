@@ -80,11 +80,8 @@
         "parentCategories": "Expenses:Food"
     },
 
-    "DOC E RECEBIDO-TIT DISTINTA": {
-        "label": "DOC",
-        "category": "Incomes",
-        "parentCategories": ""
-    },
+
+
     "IOF ADICIONAL - AUTOMATICO": {
         "label": "IOF adicional",
         "category": "IOF",
@@ -104,5 +101,13 @@
         "label": "Saque Banco24hrs",
         "category": "Expenses",
         "parentCategories": ""
-    }   
+    },
+
+
+
+    "DOC E RECEBIDO-TIT DISTINTA": {
+        "label": "DOC",
+        "category": "InputOutput",
+        "parentCategories": ""
+    }
 }

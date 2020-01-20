@@ -2,12 +2,14 @@ const fs = require('fs')
 const src = require('./src')
 const nubank = require('./nubank')
 const santander = require('./santander')
+const itau = require('./itau')
 
 const fileEncodings = 'utf-8'
 const finalFileExt = '.csv'
 const htmlConfigFilename = 'html.json'
 const placesConfigFilename = 'places.json'
 const banks = {
+    itau,
     nubank,
     santander
 }

@@ -55,17 +55,29 @@ function translateDate(date, format, separator) {
     if (monthIndex < 0) monthIndex = formatParts.indexOf('MMM')
     let month = {
         'Jan': '01',
+        'jan': '01',
         'Fev': '02',
+        'fev': '02',
         'Mar': '03',
+        'mar': '03',
         'Abr': '04',
+        'abr': '04',
         'Mai': '05',
+        'mai': '05',
         'Jun': '06',
+        'jun': '06',
         'Jul': '07',
+        'jul': '07',
         'Ago': '08',
+        'ago': '08',
         'Set': '09',
+        'set': '09',
         'Out': '10',
+        'out': '10',
         'Nov': '11',
-        'Dez': '12'
+        'nov': '11',
+        'Dez': '12',
+        'dez': '12'
     }[dateParts[monthIndex]] || dateParts[monthIndex]
 
     let year = '2020'

@@ -1,0 +1,13 @@
+{
+    "selector": {
+        "rows": ".linha-impressao",
+        "rowDay": ".data-lancamento-pf",
+        "rowDescription": ".quebra-palavra-pf",
+        "rowValue": ".valor-lancamento-negativo-pf .element--accessHide, .valor-lancamento-positivo-pf"
+    },
+    "format": {
+        "dateFormat": "dd / MMM",
+        "dateSeparator": " / ",
+        "negateValue": false
+    }
+}

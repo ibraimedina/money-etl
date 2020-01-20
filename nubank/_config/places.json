@@ -60,7 +60,7 @@
 
     "Pagamento recebido": {
         "label": "Pagamento recebido",
-        "category": "Incomes",
+        "category": "InputOutput",
         "parentCategories": ""
     }
 }
