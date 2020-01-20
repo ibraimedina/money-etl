@@ -1,0 +1,66 @@
+{
+    "Bike Bh *Bike Bh": {
+        "label": "Bike Bh",
+        "category": "Hobby",
+        "parentCategories": "Expenses"
+    },
+
+    "Estorno de \"Cabify\"": {
+        "label": "Cabify",
+        "category": "Transport",
+        "parentCategories": "Expenses:Monthly"
+    },
+    "Cabify": {
+        "label": "Cabify",
+        "category": "Transport",
+        "parentCategories": "Expenses:Monthly"
+    },
+
+    "Distrib. do Imperador": {
+        "label": "Distrib. do Imperador (Zé Delivery)",
+        "category": "Hobby",
+        "parentCategories": "Expenses"
+    },
+
+    "Gol Transp": {
+        "label": "Gol",
+        "category": "Transport",
+        "parentCategories": "Expenses:Monthly"
+    },
+
+    "Rappi*Ver Brasil Inter": {
+        "label": "Rappi",
+        "category": "Hobby",
+        "parentCategories": "Expenses"
+    },
+    "Rappi": {
+        "label": "Rappi",
+        "category": "Hobby",
+        "parentCategories": "Expenses"
+    },
+
+    "Rex Vila Isabel": {
+        "label": "Rex Vila Isabel (Ragazzo)",
+        "category": "Food",
+        "parentCategories": "Expenses"
+    },
+
+    "Uber do Brasil Tecnolo": {
+        "label": "Uber",
+        "category": "Transport",
+        "parentCategories": "Expenses:Monthly"
+    },
+    "Uberbr Uber Trip Help": {
+        "label": "Uber",
+        "category": "Transport",
+        "parentCategories": "Expenses:Monthly"
+    },
+
+
+
+    "Pagamento recebido": {
+        "label": "Pagamento recebido",
+        "category": "Incomes",
+        "parentCategories": ""
+    }
+}

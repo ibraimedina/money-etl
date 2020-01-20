@@ -1,0 +1,13 @@
+{
+    "selector": {
+        "rows": ".charge",
+        "rowDay": ".time .date",
+        "rowDescription": ".charge-data .description",
+        "rowValue": ".charge-data .amount"
+    },
+    "format": {
+        "dateFormat": "dd MMM",
+        "dateSeparator": " ",
+        "negateValue": true
+    }
+}

@@ -1,9 +1,6 @@
-const extract = require('./extract.js')
-const transform = require('./transform.js')
-const load = require('./load.js')
-
 module.exports = {
-    extract,
-    transform,
-    load
+    paths: {
+        data: "/home/ibraimedina/git/money-etl/santander/_data/",
+        config: "/home/ibraimedina/git/money-etl/santander/_config/"
+    }
 }

@@ -1,0 +1,13 @@
+{
+    "selector": {
+        "rows": "tr",
+        "rowDay": "td.td-month p.day-format",
+        "rowDescription": "td.detailed-description span",
+        "rowValue": "td.money:eq(0)"
+    },
+    "format": {
+        "dateFormat": "dd/MM",
+        "dateSeparator": "/",
+        "negateValue": false
+    }
+}
