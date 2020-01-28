@@ -1,5 +1,15 @@
 {
-    "BOM GOURMET": {
+	"AUTOSNACK JUIZ": {
+        "label": "Grall Juiz de Fora",
+        "category": "Food",
+        "parentCategories": "Expenses"
+	},
+	"BAR E BOI": {
+        "label": "Bar e boi",
+        "category": "Hobby",
+        "parentCategories": "Expenses"
+    },
+	"BOM GOURMET": {
         "label": "Dubom",
         "category": "Hobby",
         "parentCategories": "Expenses"
@@ -14,10 +24,30 @@
         "category": "Lunch",
         "parentCategories": "Expenses:Food"
     },
+	"COCO BAMBU BH": {
+		"label": "Coco Bambu BH",
+		"category": "Hobby",
+		"parentCategories": "Expenses"
+	},
+	"DETINHA": {
+        "label": "Baratex",
+        "category": "Lunch",
+        "parentCategories": "Expenses:Food"
+	},
+	"CANTO BOM": {
+        "label": "Canto bom restaurante",
+        "category": "Lunch",
+        "parentCategories": "Expenses:Food"
+	},
+	"CONCESSAO METRO": {
+        "label": "Metr� Rio",
+        "category": "Transport",
+        "parentCategories": "Expenses:Monthly"
+	},
     "EXPRESSO UNIR L": {
         "label": "Conexão aeroporto",
-        "category": "Conexão aeroporto",
-        "parentCategories": "Expenses:Monthly:Transport"
+        "category": "Transport",
+        "parentCategories": "Expenses:Monthly"
     },
     "MEGA MARACANA F": {
         "label": "Pão de queijo recheado",
